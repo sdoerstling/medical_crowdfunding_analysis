@@ -6,6 +6,8 @@ This repository contains source code for Doerstling et al (2025) *Impact of Medi
 
 Repository with code on data collection, disease idenitification algorithm development/validation, and PCA analysis can be found [here](https://github.com/sdoerstling/medical_crowdfunding_methods/tree/main)
 
+Specifically, here is the file used for the PCA analysis: ["06-PCA.R"](https://github.com/sdoerstling/medical_crowdfunding_methods/blob/main/code/06-PCA.R)
+
 ----
 
 ## Files
